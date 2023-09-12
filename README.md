@@ -1,4 +1,4 @@
 # Python_Sistemi-Reti
-Esercizi in Python 2023/2024
-Gli esercizi contenuti sono: 
-- hello Luca
+# Esercizi in Python 2023/2024
+nome = "Luca"
+print(f"Ciao {nome}") #f-string
